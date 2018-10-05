@@ -1,3 +1,9 @@
+flameshot (0.6-lliurex2) xenial; urgency=medium
+
+  * Update translations
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 05 Oct 2018 10:29:42 +0200
+
 flameshot (0.6-lliurex1) bionic; urgency=medium
 
   * Bionic release
