@@ -166,7 +166,7 @@ Press Space to open the side panel.</source>
     <message>
         <location filename="../src/core/controller.cpp" line="169"/>
         <source>&amp;Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;Capturar pantalla"></translation>
     </message>
 </context>
 <context>
